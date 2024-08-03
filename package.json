@@ -59,7 +59,7 @@
     "sequelize-cli": "^6.4.1"
   },
   "engines": {
-    "node": "16",
-    "npm": "8"
+    "node": "18",
+    "npm": "10"
   }
 }
